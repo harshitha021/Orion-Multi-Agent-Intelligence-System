@@ -263,9 +263,6 @@ orion/
 ├── main.py
 └── README.md
 ```
-👨‍💻 Author
-Your Name — Aryan P
-Passionate about multi-agent systems, LLM reliability, and AI system design.
 
 ⭐ If you like this project, consider giving it a Star!
 
